@@ -1,4 +1,4 @@
 # superman
 hello world
-my name is jin
+my name is ji
 echo my name
